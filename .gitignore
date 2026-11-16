@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Secrets
+.env
+# Skyfield ephemeris (downloaded automatically, ~17 MB)
+*.bsp
+*.bsp.download*

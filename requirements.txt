@@ -1,0 +1,10 @@
+﻿# Orbital mechanics, TLE/SGP4 positioning and 3D visualisation
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+pygame>=2.5
+skyfield>=1.49
+beautifulsoup4>=4.12
+requests>=2.31
+playwright>=1.40
+pyvista>=0.43
